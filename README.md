@@ -3,5 +3,10 @@
 ### About Me 👋
 
 - Blog:https://www.bugku.net
+- 99 little bugs in the code,
+99 bugs in the code,
+fix one bug, compile it again,
+101 little bugs in the code.
+101 little bugs in the code….
 
 <img align='right' src="https://profile-counter.glitch.me/FishM4n/count.svg" width="100">
