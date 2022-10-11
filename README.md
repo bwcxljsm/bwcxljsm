@@ -2,7 +2,6 @@
 
 ### About Me 👋
 
-- Blog:https://www.bugku.net
 - 99 little bugs in the code,
 99 bugs in the code,
 fix one bug, compile it again,
